@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity-CrossPlatformDev", "Unity-CrossPlatformDev.csproj", "{181948B1-0A52-0105-1EBF-A7494FBFC4E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity-CrossPlatformDev.Editor", "Unity-CrossPlatformDev.Editor.csproj", "{4B98372C-4984-004F-C2A6-676609445563}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{181948B1-0A52-0105-1EBF-A7494FBFC4E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{181948B1-0A52-0105-1EBF-A7494FBFC4E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{181948B1-0A52-0105-1EBF-A7494FBFC4E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{181948B1-0A52-0105-1EBF-A7494FBFC4E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B98372C-4984-004F-C2A6-676609445563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B98372C-4984-004F-C2A6-676609445563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B98372C-4984-004F-C2A6-676609445563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B98372C-4984-004F-C2A6-676609445563}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
